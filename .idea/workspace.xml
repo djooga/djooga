@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2d3cda7-bf7d-403f-aaee-f3e0dd26070c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/localtest/apache-tomcat-8.0.41/work/Catalina/localhost/ROOT/SESSIONS.ser" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resours/postgresql-9.4-1202.jdbc42.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/kz/mysite/database/GetData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/resours.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/kz/mysite/database/GetData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/localtest/apache-tomcat-8.0.41/work/Catalina/localhost/ROOT/SESSIONS.ser" afterPath="$PROJECT_DIR$/localtest/apache-tomcat-8.0.41/work/Catalina/localhost/ROOT/SESSIONS.ser" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/localtest/apache-tomcat-8.0.41/work/Catalina/localhost/ROOT/org/apache/jsp/WEB_002dINF/jsps/ab_002d3_jsp.class" afterPath="$PROJECT_DIR$/localtest/apache-tomcat-8.0.41/work/Catalina/localhost/ROOT/org/apache/jsp/WEB_002dINF/jsps/ab_002d3_jsp.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/localtest/apache-tomcat-8.0.41/work/Catalina/localhost/ROOT/org/apache/jsp/city_jsp.class" afterPath="$PROJECT_DIR$/localtest/apache-tomcat-8.0.41/work/Catalina/localhost/ROOT/org/apache/jsp/city_jsp.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/localtest/apache-tomcat-8.0.41/work/Catalina/localhost/ROOT/org/apache/jsp/main_jsp.class" afterPath="$PROJECT_DIR$/localtest/apache-tomcat-8.0.41/work/Catalina/localhost/ROOT/org/apache/jsp/main_jsp.class" />
@@ -626,12 +631,12 @@
       <option name="presentableId" value="Default" />
       <updated>1486265412964</updated>
       <workItem from="1486265443763" duration="11208000" />
-      <workItem from="1486290515654" duration="5526000" />
+      <workItem from="1486290515654" duration="5585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16734000" />
+    <option name="totallyTimeSpent" value="16793000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
