@@ -14,7 +14,7 @@
 </head>
 <body>
 <page:header title="MAIN"/>
-Main
+Main page super
 <page:footer/>
 </body>
 </html>
